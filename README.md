@@ -10,18 +10,18 @@ solution.R file  consists of codes that performs the following:
 
 2.Format date to Type Date
 
-3. Subset data of 2 day period in February, 2007
+3.Subset data of 2 day period in February, 2007
 
-4. Remove incomplete observations
+4.Remove incomplete observations
 
-5. Create the histogram (Plot 1)
+5.Create the histogram (Plot 1)
 
-6. Combine date and time column
+6.Combine date and time column
 
-7. Format dateTime Column
+7.Format dateTime Column
 
-8. Draw Plot 2
+8.Draw Plot 2
 
-9. Draw Plot 3
+9.Draw Plot 3
 
-10. Draw Plot 4 
+10.Draw Plot 4 
