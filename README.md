@@ -1,6 +1,7 @@
 Exploratory Data Analysis Project 1:
 This repo has instructions on how to run exploratory data analysis on the dataset named "Electric power consumption"
 
+plot 1, plot 2, plot 3, and plot 4 refer to the plots created by the codes provided in soultion.R
 solution.R consists of the codes that performs the following analyses:
 
 1.Upload dataset
